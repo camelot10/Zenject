@@ -1,5 +1,5 @@
 {
-  "name": "com.camelot10.zenject",
+  "name": "zenject",
   "version": "9.2.0",
   "description": "Dependency Injection Framework for Unity3D upm package",
   "displayName": "Zenject",
