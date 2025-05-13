@@ -1,9 +1,10 @@
 {
-  "name": "zenject",
-  "displayName": "Zenject",
+  "name": "com.camelot10.zenject",
   "version": "9.2.0",
-  "unity": "2018.3",
   "description": "Dependency Injection Framework for Unity3D upm package",
+  "displayName": "Zenject",
+  "unity": "2018.3",
+  "documentationUrl": "https://github.com/modesttree/Zenject"
   "keywords": [
     "ioc",
     "dependency-injection"
